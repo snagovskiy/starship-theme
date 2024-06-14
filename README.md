@@ -1,7 +1,7 @@
 # starship-theme
 
 ```
-curl -o ~/.config/ https://raw.githubusercontent.com/snagovskiy/starship-theme/main/starship.toml
+curl -O ~/.config/ https://raw.githubusercontent.com/snagovskiy/starship-theme/main/starship.toml
 ```
 
 
